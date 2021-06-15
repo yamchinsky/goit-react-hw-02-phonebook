@@ -8,6 +8,11 @@ export const PhonebookItemStyled = styled.form`
     font-size: 22px;
     font-weight: bold;
   }
+  .phonebook-number {
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: bold;
+  }
 
   .input {
     width: 150px;
